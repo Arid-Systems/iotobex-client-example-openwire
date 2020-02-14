@@ -1,7 +1,5 @@
 # iotobex-client-example-openwire
-Example of client implementation for an Iotobex OpenWire connection utilizing Java Message Service (JMS).
-
-This code implements a client to demonstrate connection to the Iotobex service. 
+Example of client implementation demonstrating a method of connection to the Iotobex service, in this case an OpenWire connection utilizing Java Message Service (JMS).
 
 Iotobex is an information exchange for the Internet of Things. It enables:
 - The dissemination of, and easy access to, “public” Internet of Things (IoT) information.
